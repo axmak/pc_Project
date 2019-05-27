@@ -1,0 +1,54 @@
+@media screen and (max-width: 766px) {
+    div#download-count,div.bg_color{
+        display: none;
+    }
+    .phone-header{
+        height:6rem;
+    }
+}
+@media screen and (min-width: 767px){
+    p,a{
+        color: #8e8893;
+        font-size: 12px;
+        text-decoration: none;
+    }
+    .bg-top{
+        background: #3d3744;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #8e8893;
+    }
+    .download{
+        border: 1px solid #8e8893;
+        border-radius:5rem;
+    }
+    a.download{
+        width:8rem;
+        height:2.5rem;
+        line-height: 2.5rem;
+    }
+    .mr-15{
+        margin-right: 15rem;
+    }
+    .bg_color{
+        background: #584f60;
+    }
+    .bg_color a{
+        color: #fff;
+        font-size: 0.85rem;
+    }
+    .mr-30{
+        margin-right: 30rem;
+    }
+    .fa-1-1x{
+        font-size: 1.1rem;
+    }
+    .x-size{
+        margin-left: 1rem;
+        font-size: 1.5rem;
+    }
+    div.phone-header div.d-flex{
+        display:none !important;
+    }
+}

@@ -1,0 +1,40 @@
+.my_small{
+	font-size: 0.8rem;
+}
+.list-unstyled a{
+	text-decoration: none;
+	color:#584f60;
+}
+.text-right p{
+	margin-top:3rem;
+	height:2rem;
+	line-height:1.5rem;
+}
+.color-b{
+	color:#000;
+}
+a:hover{
+	text-decoration: none;
+}
+.mt-8{
+	margin-top:5rem;
+}
+.my_container{
+	width:80rem;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.footer_text{
+	color: #999;
+}
+.fa-2x {
+	font-size: 2em;
+}
+.font-58{
+	color:#584f60;
+}
+a.font-58:hover{
+	color:#584f60;
+}
